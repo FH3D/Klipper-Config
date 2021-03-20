@@ -1,2 +1,5 @@
-# Klipper-Firmware
-## Voron 2.4 300 double SKR 1.4 Turbo Klipper-Config
+# Klipper_cfg.
+
+## This is my klipper config - Voron2.4 / 300 with two SKR´s
+
+# please use on your own risk 
