@@ -1,5 +1,5 @@
 # Klipper_cfg.
 -------------------------------------------------------------------
-## This is my klipper config for my Voron2.4 / 300 with two SKR´s
+## This repo is used to store my Klipper config for my Voron printer (V2.4 & V0)
 ### please use on your own risk
 ![](./images/ZwoVier.png) 
